@@ -4,6 +4,12 @@ Wall panel is android app for smart dashboard is free and work really well whit 
 http://thanksmister.com/wallpanel-android/
 
 
+
+what you need?
+- Hubitat hub
+- MQTT Broker https://mosquitto.org/ will run in almos anything. is alot of free and pay option online but use at your on risk
+- this driver
+
 Installation steps:
 - install app on the table and use setting to configure to use your MQTT broker 
 - add driver to your hub and set it up on the same MQTT broker
