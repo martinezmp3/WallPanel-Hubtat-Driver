@@ -1,3 +1,10 @@
+/*driver WallPanel
+I wrote this diver for personal use. If you decide to use it, do it at your own risk. 
+No guarantee or liability is accepted for damages of any kind. 
+        05/01/21 intial release 
+*/
+
+
 metadata {
     definition (name: "WallPanelDriver_MQTT", , namespace: "jorge.martinez", author: "Jorge Martinez"){
         capability "Initialize"
