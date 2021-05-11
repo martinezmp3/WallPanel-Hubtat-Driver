@@ -7,7 +7,7 @@ http://thanksmister.com/wallpanel-android/
 
 what you need?
 - Hubitat hub
-- MQTT Broker https://mosquitto.org/ will run in almos anything. is alot of free and pay option online but use at your on risk
+- MQTT Broker https://mosquitto.org/ will run in almos anything. is a lot of free and pay option online but use at your on risk
 - this driver
 
 Installation steps:
