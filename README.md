@@ -5,5 +5,5 @@ http://thanksmister.com/wallpanel-android/
 
 
 Installation steps:
-- install app on the table and use setting to configure to use your MQTT broeker 
+- install app on the table and use setting to configure to use your MQTT broker 
 - add driver to your hub and set it up on the same MQTT broker
